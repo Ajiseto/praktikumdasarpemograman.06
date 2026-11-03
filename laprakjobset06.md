@@ -320,3 +320,5 @@ Test Results for Case Study 2 by <Name>
 ```
 
 Expected output for each test (from the job sheet, example only): test 1 is documents incomplete with 1 document missing and no award funds; test 2 is not eligible because only 1st, 2nd, and 3rd place get funds; test 3 is eligible because the PKM proposal is approved; test 4 is not eligible because the activity type is not covered by the requirements.
+
+![study case](<Screenshot 2026-11-03 221625.png>)
