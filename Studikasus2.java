@@ -4,6 +4,7 @@ public class Studikasus2 {
     public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
         
+        System.out.print("Nama mahasiswa : ");
         String nama = sc.nextLine();
 
         System.out.print("Jenis kegiatan (BELMAWA/BAKORMA/MANDIRI/PKM/LAINNYA) : ");
